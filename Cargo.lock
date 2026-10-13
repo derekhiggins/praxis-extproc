@@ -3240,6 +3240,8 @@ dependencies = [
  "openssl",
  "praxis-ai-apis",
  "praxis-ai-filters",
+ "praxis-ai-store",
+ "praxis-ai-store-lifecycle",
  "praxis-proxy-core",
  "praxis-proxy-filter",
  "praxis-proxy-proto",
